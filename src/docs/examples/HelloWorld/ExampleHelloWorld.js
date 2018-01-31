@@ -1,5 +1,5 @@
 import React from 'react';
-import HelloWorld from 'ps-react-xzor/HelloWorld/HelloWorld';
+import HelloWorld from 'ps-react-xzor/HelloWorld/';
 
 /** Custom message */
 export default function ExampleHelloWorld() {

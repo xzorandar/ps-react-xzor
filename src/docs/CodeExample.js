@@ -24,4 +24,3 @@ CodeExample.propTypes = {
 }
 
 export default CodeExample; 
-// </PrismCode> <PrismCode className="language-jsx">
