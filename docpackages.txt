@@ -1,0 +1,5 @@
+react-docgen -> Generate React component metadata
+chokidar -> Watch Files
+highlight.js -> Syntex highlighted code examples
+npm-run-all
+prop-types
