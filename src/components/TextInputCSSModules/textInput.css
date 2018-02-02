@@ -1,0 +1,11 @@
+.fieldset {
+    margin-bottom: 16px;
+}
+
+.error {
+    color: red;
+}
+
+.inputerror {
+    border: solid 1px red;
+}
